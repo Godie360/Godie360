@@ -2,7 +2,7 @@
 👨‍💻 About Me: <br>
 Hello! I'm Godfrey Enosh, a passionate and innovative Software Developer hailing from Dar es Salaam, Tanzania. I thrive on turning ideas into reality through the power of code. My goal is to contribute to the ever-evolving world of technology and make a positive impact on society. <br>
 
-📚 Education:
+📚 Education: <br>
 I hold a Bachelor of Science (BSc) degree in Information System and Management, which I earned from Ardhi University during the period 2021-2024. My education has equipped me with a solid foundation in various aspects of software development and management. <br>
 
 💼 Professional Journey: <br>
