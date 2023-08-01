@@ -1,5 +1,5 @@
 # 🌐 GODFREY ENOSH
-👨‍💻 About Me: <br>
+## 👨‍💻 About Me: <br>
 Hello! I'm Godfrey Enosh, a passionate and innovative Software Developer hailing from Dar es Salaam, Tanzania. I thrive on turning ideas into reality through the power of code. My goal is to contribute to the ever-evolving world of technology and make a positive impact on society. <br>
 
 ## 📚 Education: <br>
